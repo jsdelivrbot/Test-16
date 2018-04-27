@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "express": "^4.13.3",
+    "gtconfigurationmanager": "git+https://github.com/sai070cm118/GT.ConfigurationManager.git",
     "gtproxyservice": "git+https://github.com/sai070cm118/GT.ProxyService.git"
   },
   "engines": {
